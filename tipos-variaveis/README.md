@@ -1,18 +1,16 @@
-## Getting Started
+## Aula sobre tipos e variáveis em Java. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Variáveis
+Primitive Types (Armazenados nas memory stack):
+- int
+- byte
+- short
+- long
+- float (partes fracionárias)
+- double (partes fracionárias) 
+    - Valores milhares em Java não utilizam "."  ou ",", a notação é, ex: 2500. Só coloca-se "." para a representação de centavos, pela convenção americana. 
+- boolean
+- char
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Constantes
+- toda constante (final), deve ser escrita em caixa alta
