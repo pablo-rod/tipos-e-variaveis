@@ -13,4 +13,4 @@ Primitive Types (Armazenados nas memory stack):
 - char
 
 ### Constantes
-- toda constante (final), deve ser escrita em caixa alta
+- toda constante (final), deve ser escrita em caixa alta;
